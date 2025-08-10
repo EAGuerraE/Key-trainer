@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs y cache
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.coverage
+htmlcov/
+
+# Build/Dist
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
+.env.*
